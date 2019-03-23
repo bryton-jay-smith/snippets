@@ -1,0 +1,10 @@
+{
+  "BS Container Fluid": {
+    "prefix": "BS Container Fluid\r",
+    "body": [
+      "<div class=\"container-fluid\">\r",
+      "    \r",
+      "</div>"
+    ]
+  }
+}
