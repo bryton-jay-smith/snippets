@@ -1,6 +1,6 @@
 {
   "BS Container Fluid": {
-    "prefix": "BS Container Fluid\r",
+    "prefix": "container\r",
     "body": [
       "<div class=\"container-fluid\">\r",
       "    \r",
