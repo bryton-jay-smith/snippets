@@ -1,10 +1,90 @@
 {
-  "BS Container Fluid": {
-    "prefix": "container\r",
+  "Bootstrap Container Fluid": {
+    "prefix": "BS Container Fluid\r",
     "body": [
       "<div class=\"container-fluid\">\r",
       "    \r",
       "</div>"
+    ]
+  },
+  "Bootstrap row": {
+    "prefix": "row\r",
+    "body": [
+      "<div class=\"row\">\r",
+      "        \r",
+      "</div>"
+    ]
+  },
+  "Bootstrap column size 1": {
+    "prefix": "col1\r",
+    "body": [
+      "<div class=\"col-1\"></div>"
+    ]
+  },
+  "Bootstrap column size 2": {
+    "prefix": "col2\r",
+    "body": [
+      "<div class=\"col-2\"></div>"
+    ]
+  },
+  "Bootstrap column size 3": {
+    "prefix": "col3\r",
+    "body": [
+      "<div class=\"col-3\"></div>"
+    ]
+  },
+  "Bootstrap column size 4": {
+    "prefix": "col4\r",
+    "body": [
+      "<div class=\"col-4\"></div>"
+    ]
+  },
+  "Bootstrap column size 5": {
+    "prefix": "col5\r",
+    "body": [
+      "<div class=\"col-5\"></div>"
+    ]
+  },
+  "Bootstrap column size 6": {
+    "prefix": "col6\r",
+    "body": [
+      "<div class=\"col-6\"></div>"
+    ]
+  },
+  "Bootstrap column size 7": {
+    "prefix": "col7\r",
+    "body": [
+      "<div class=\"col-7\"></div>"
+    ]
+  },
+  "Bootstrap column size 8": {
+    "prefix": "col8\r",
+    "body": [
+      "<div class=\"col-8\"></div>"
+    ]
+  },
+  "Bootstrap column size 9": {
+    "prefix": "col9\r",
+    "body": [
+      "<div class=\"col-9\"></div>"
+    ]
+  },
+  "Bootstrap column size 10": {
+    "prefix": "col10\r",
+    "body": [
+      "<div class=\"col-10\"></div>"
+    ]
+  },
+  "Bootstrap column size 11": {
+    "prefix": "col11\r",
+    "body": [
+      "<div class=\"col-11\"></div>"
+    ]
+  },
+  "Bootstrap column size 12": {
+    "prefix": "col12\r",
+    "body": [
+      "<div class=\"col-12\"></div>"
     ]
   }
 }
