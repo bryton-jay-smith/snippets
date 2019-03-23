@@ -1,0 +1,10 @@
+{
+  "Document Ready for jQuery": {
+    "prefix": "docready\r",
+    "body": [
+      "$(document).ready(function() { \r",
+      "\r",
+      "});"
+    ]
+  }
+}
