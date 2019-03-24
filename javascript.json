@@ -1,10 +1,42 @@
 {
-  "Document Ready for jQuery": {
+  "jQuery Document Ready": {
     "prefix": "docready\r",
     "body": [
       "$(document).ready(function() { \r",
       "\r",
       "});"
+    ]
+  },
+  "Firebase Snapshot": {
+    "prefix": "snapshot\r",
+    "body": [
+      "database.ref().on(\"value\", function(snapshot) {\r",
+      "  //CODE BLOCK CONTENT\r",
+      "}, function(errorObject) {\r",
+      "  console.log(\"Errors handled: \" + errorObject.code);\r",
+      "});\r",
+      ""
+    ]
+  },
+  "Firebase Set Values": {
+    "prefix": "fireset\r",
+    "body": [
+      "database.ref().set({\r",
+      "  // Object: Value,\r",
+      "});"
+    ]
+  },
+  "Firebase Database Variable": {
+    "prefix": "firevar\r",
+    "body": [
+      "var database = firebase.database();\r",
+      ""
+    ]
+  },
+  "jQuery ID selector": {
+    "prefix": "$id\r",
+    "body": [
+      "$(\"#ID\").html();"
     ]
   }
 }
